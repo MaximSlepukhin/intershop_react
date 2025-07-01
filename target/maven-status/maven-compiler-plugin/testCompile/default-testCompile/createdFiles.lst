@@ -1,0 +1,8 @@
+com/github/maximslepukhin/intershop/controller/AbstractIntegrationTest.class
+com/github/maximslepukhin/intershop/service/OrderServiceImplTest.class
+com/github/maximslepukhin/intershop/controller/AbstractIntegrationTest$Initializer.class
+com/github/maximslepukhin/intershop/controller/CartControllerTest.class
+com/github/maximslepukhin/intershop/controller/ItemControllerTest.class
+com/github/maximslepukhin/intershop/controller/OrderControllerTest.class
+com/github/maximslepukhin/intershop/service/CartServiceImplTest.class
+com/github/maximslepukhin/intershop/service/ItemServiceImplTest.class
